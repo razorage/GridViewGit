@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid #7f7f7f;
+}
+
+img{
+    width: 100px;
+    height: 150px;
+}
+
+table tr, td, th {
+    border: 3px solid black;
+}
+
+table td, th {
+    padding: 10px;
+}
+
+table th {
+    text-transform: uppercase;
+}
+.header {
+    font-family: Georgia;
+    color: blue;
+}
+.header_dop{
+    font-style: italic;
+}
+.table_color{
+    color: gray;
+}
